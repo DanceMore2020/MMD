@@ -1,0 +1,27 @@
+{
+  "Girl": {
+        "Version": 1,
+        "Info": "https://github.com/DanceMore2020/MMD/raw/master/Android/Girl.bytes",
+        "Assets": "https://github.com/DanceMore2020/MMD/raw/master/Android/Girl.bin"
+    },
+    "Boy": {
+        "Version": 1,
+        "Info": "https://github.com/DanceMore2020/MMD/raw/master/Android/Boy.bytes",
+        "Assets": "https://github.com/DanceMore2020/MMD/raw/master/Android/Boy.bin"
+    },
+    "Dance": {
+        "Version": 1,
+        "Info": "https://github.com/DanceMore2020/MMD/raw/master/Android/Dance.bytes",
+        "Assets": "https://github.com/pocketark2020/MDData/raw/master/Android/Dance.bin"
+    },
+    "Stage": {
+        "Version": 1,
+        "Info": "https://github.com/DanceMore2020/MMD/raw/master/Android/Stage.bytes",
+        "Assets": "https://github.com/DanceMore2020/MMD/raw/master/Android/Stage.bin"
+    },
+    "Sky": {
+        "Version": 1,
+        "Info": "https://github.com/DanceMore2020/MMD/raw/master/Android/Sky.bytes",
+        "Assets": "https://github.com/DanceMore2020/MMD/raw/master/Android/Sky.bin"
+    }
+}
