@@ -3,7 +3,7 @@
         "Version": 1,
         "Info": "https://github.com/DanceMore2020/MMD/raw/master/iOS/Girl.bytes",
         "Assets": "https://github.com/DanceMore2020/MMD/raw/master/iOS/Girl.bin"
-    }
+    },
     "Stage": {
         "Version": 1,
         "Info": "https://github.com/DanceMore2020/MMD/raw/master/iOS/Stage.bytes",
