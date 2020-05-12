@@ -4,6 +4,11 @@
         "Info": "https://github.com/DanceMore2020/MMD/raw/master/iOS/Girl.bytes",
         "Assets": "https://github.com/DanceMore2020/MMD/raw/master/iOS/Girl.bin"
     },
+    "Dance": {
+        "Version": 1,
+        "Info": "https://github.com/DanceMore2020/MMD/raw/master/iOS/Dance.bytes",
+        "Assets": "https://github.com/pocketark2020/MDData/raw/master/iOS/Dance.bin"
+    },
     "Stage": {
         "Version": 1,
         "Info": "https://github.com/DanceMore2020/MMD/raw/master/iOS/Stage.bytes",
