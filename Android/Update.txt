@@ -9,6 +9,11 @@
         "Info": "https://github.com/DanceMore2020/MMD/raw/master/Android/Boy.bytes",
         "Assets": "https://github.com/DanceMore2020/MMD/raw/master/Android/Boy.bin"
     },
+    "Dance": {
+        "Version": 2,
+        "Info": "https://github.com/DanceMore2020/MMD/raw/master/Android/Dance.bytes",
+        "Assets": "https://github.com/pocketark2020/MDData/raw/master/Android/Dance.bin"
+    },
     "Stage": {
         "Version": 1,
         "Info": "https://github.com/DanceMore2020/MMD/raw/master/Android/Stage.bytes",
